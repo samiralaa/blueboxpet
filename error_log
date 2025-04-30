@@ -1,0 +1,7 @@
+[13-Mar-2025 11:53:52 UTC] PHP Warning:  require(/home/b8klnsglz4d0/public_html/animals.mnateq.com/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/b8klnsglz4d0/public_html/animals.mnateq.com/index.php on line 13
+[13-Mar-2025 11:53:52 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/b8klnsglz4d0/public_html/animals.mnateq.com/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/b8klnsglz4d0/public_html/animals.mnateq.com/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/b8klnsglz4d0/public_html/animals.mnateq.com/index.php on line 13
+[23-Mar-2025 20:55:09 UTC] PHP Fatal error:  Trait "App\Http\Controllers\Illuminate\Support\Facades\DB" not found in /home/b8klnsglz4d0/public_html/animals.mnateq.com/app/Http/Controllers/OrderController.php on line 9
+[04-Apr-2025 16:00:26 UTC] PHP Fatal error:  Cannot declare class SubDiliveryController, because the name is already in use in /home/b8klnsglz4d0/public_html/animals.mnateq.com/app/Http/Controllers/SubDiliveryController.php on line 5
